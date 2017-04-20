@@ -1,4 +1,7 @@
-# test coverage for  [any-db (v2.2.0)](https://github.com/grncdr/node-any-db#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-any-db.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-any-db) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-any-db.svg)](https://travis-ci.org/npmtest/node-npmtest-any-db)
+# npmtest-any-db
+
+#### basic test coverage for  [any-db (v2.2.0)](https://github.com/grncdr/node-any-db#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-any-db.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-any-db) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-any-db.svg)](https://travis-ci.org/npmtest/node-npmtest-any-db)
+
 #### Database-agnostic connection pooling, querying, and result sets
 
 [![NPM](https://nodei.co/npm/any-db.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/any-db)
